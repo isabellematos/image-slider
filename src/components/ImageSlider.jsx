@@ -2,7 +2,8 @@ import SliderControls from './SliderControls.jsx';
 
 export default function ImageSlider() {
   return (
-    <section aria-label="Galeria da vida selvagem" className="w-full min-w-0">
+    <section 
+    aria-label="Galeria da vida selvagem" className="w-full min-w-0">
       <p className="mb-5 text-xs font-bold tracking-[.18em] text-violet-600">
         EM DESTAQUE / PANDA-GIGANTE
       </p>
